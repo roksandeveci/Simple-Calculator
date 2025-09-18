@@ -1,0 +1,2 @@
+This project only needs Python 3.13.
+No external libraries are required.
