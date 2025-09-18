@@ -10,11 +10,11 @@ It allows you to perform four basic math operations.
    ```bash
    git clone https://github.com/roksandeveci/Simple-Calculator
 2. Navigate into the project folder:
-   cd Calculator
+   cd Simple-Calculator
 3. Run the program
    python app.py
 
- Usage
+## Usage
 
 After entering two numbers, choose the operation:
 
