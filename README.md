@@ -8,7 +8,7 @@ It allows you to perform four basic math operations.
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/roksandeveci/calculator.git
+   git clone https://github.com/roksandeveci/Simple-Calculator
 2. Navigate into the project folder:
    cd Calculator
 3. Run the program
